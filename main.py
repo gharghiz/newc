@@ -1,0 +1,1 @@
+print("Run worker.py instead")
