@@ -2,3 +2,4 @@ feedparser
 requests
 flask
 python-dotenv
+gunicorn==22.0.0
